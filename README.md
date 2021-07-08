@@ -9,7 +9,7 @@ Just a normal guy who loves data
 
 📱 You can reach me on
 
-<a href="https://linkedin.com/in/ariqnfl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ariqnfl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ariq-naufal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ariqnfl" height="30" width="40" /></a>
 
 [![Ariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariqnfl)](https://github.com/anuraghazra/github-readme-stats)
 
