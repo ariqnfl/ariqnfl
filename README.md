@@ -3,7 +3,7 @@
 
 Just a normal guy who loves data
 
-🏢 Currently working as Data Analyst at [Evermos](https://evermos.com)
+🏢 Currently working as Analytics Engineer at [Evermos](https://evermos.com)
 
 💬 Mostly speaks with Python and Go
 
